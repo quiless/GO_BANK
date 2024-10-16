@@ -1,6 +1,6 @@
 module github.com/quiless/BANK_GO
 
-go 1.23.2
+go 1.23
 
 require github.com/stretchr/testify v1.9.0
 
